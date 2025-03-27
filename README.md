@@ -2,9 +2,8 @@
 
 ## Lokalnie
 
-Aby uruchomić aplikację lokalnie, wykonaj następujące kroki:
-
 1. Upewnij się, że masz zainstalowanego Pythona (zalecana wersja 3.9) oraz zależności z pliku `requirements.txt`.
+
 2. Zainstaluj wymagane biblioteki:
     ```
     pip install -r requirements.txt
